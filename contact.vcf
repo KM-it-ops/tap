@@ -3,10 +3,12 @@ VERSION:3.0
 N:Al Kurdi;Mahmoud;;;
 FN:Michael Al Kurdi
 NICKNAME:Michael
-TITLE:Cybersecurity & AI Systems · Security+
+TITLE:Junior Security Analyst · Security Operations · IT Risk
 EMAIL;TYPE=INTERNET:kurdi.michael.it@gmail.com
 item1.URL:https://www.linkedin.com/in/mahmoud-michael-al-kurdi/
 item1.X-ABLabel:LinkedIn
 item2.URL:https://km-it-ops.github.io/
-item2.X-ABLabel:Website
+item2.X-ABLabel:Portfolio
+item3.URL:https://github.com/KM-it-ops
+item3.X-ABLabel:GitHub
 END:VCARD
